@@ -40,5 +40,5 @@ body {
 .icon {
   font-size: 4rem;
   order: -1; /* Moves the icon to the top of the flex container */
-  text-align:center ;
+  text-align: center ;
 }
