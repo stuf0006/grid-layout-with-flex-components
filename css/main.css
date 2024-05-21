@@ -15,7 +15,6 @@ body {
 /* Style individual emoji containers as flex columns with a border, rounded corners, and padding */
 .emoji {
   display: flex;
-  justify-content: space-evenly;
   flex-direction: column;
   border: 1px solid #222;
   border-radius: 8px;
