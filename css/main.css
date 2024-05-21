@@ -31,6 +31,7 @@ body {
 /* Style links within emoji containers with no text decoration, a purple background, white text,
  padding for clickable area, and rounded corners */
 .emoji a {
+  margin-top: auto;
   text-decoration: none;
   background-color: #781BAA;
   color: white;
